@@ -6,7 +6,7 @@ I'm happy to share a little more about myself and my activities here. Explore my
 
 ---
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFN2yd8fgM-DA/profile-displaybackgroundimage-shrink_350_1400/0/1686912747899?e=1711584000&v=beta&t=Z55hjlqCBeLvMHCZdpULa1KLP7I9-2dN0d7jj6ZB7CY" width="1050" height="250"/>
+  <img src="https://raw.githubusercontent.com/CaesarDuarte/CaesarDuarte/main/banner.jfif" width="1050" height="250"/>
 </div>
 
 ---
