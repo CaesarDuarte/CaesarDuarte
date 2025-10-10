@@ -32,8 +32,6 @@ I'm happy to share a little more about myself and my activities here. Explore my
 
 Feel free to get in touch, whether to ask questions or make suggestions. I'm always available to help!
 
-| 📬 E-mail: cesar.jcm@outlook.com
-
 | 🔗 [LinkedIn](https://www.linkedin.com/in/caesar-duarte/)
 
 | ✍🏻 [Medium (Under construction)](https://caesarduarte.medium.com/)
