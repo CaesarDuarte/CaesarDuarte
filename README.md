@@ -1,40 +1,7 @@
-# Hi! 👋🏻
+# Quem sou eu?
+Sou o César, Tecnólogo em Ciência de Dados pela [UNINTER](https://www.uninter.com/).
 
-Welcome to my GitHub profile! :octocat:
+Gosto de um monte de coisas, tipo: café, vinho, jogos de estratégia, estudar,  dados abertos, ciência de dados, visualização de dados, direitos digitais e privacidade.
 
-I'm happy to share a little more about myself and my activities here. Explore my work and discover more about my projects and contributions!
-
----
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CaesarDuarte/CaesarDuarte/main/banner.jfif" width="1050" height="250"/>
-</div>
-
----
-
-# About me
-
-- 📍 I live in Cabo Frio, in the state of Rio de Janeiro;
-- 🎓 I am currently studying Data Science at UNINTER;
-- 💡 After discovering the data area, I realized my professional objective and since then I have dedicated myself to solving business problems using data visualization, machine learning algorithms and statistics;
-- 🌟 My main objective is to apply my knowledge in the area of data, in a data-driven way, to solve business challenges, especially in the areas of Data Analysis and Data Science.
-
-# Skills 
-  <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-    
-  </div>
- 
-# Contacts
-
-Feel free to get in touch, whether to ask questions or make suggestions. I'm always available to help!
-
-| 🔗 [LinkedIn](https://www.linkedin.com/in/caesar-duarte/)
-
-| ✍🏻 [Medium (Under construction)](https://caesarduarte.medium.com/)
-
-| 💼 [Portfolio (Under construction)](https://caesarduarte.github.io/projects-portfolio/)
-
+# Vamos nos conectar?
+Confira meu [Linkedin](https://www.linkedin.com/in/caesar-duarte/). Sinta-se livre para se conectar comigo e me enviar alguma mensagem. 👋🏻
