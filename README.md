@@ -1,7 +1,7 @@
-# Quem sou eu?
-Sou o César, Tecnólogo em Ciência de Dados pela [UNINTER](https://www.uninter.com/).
+# Who am I??
+I'm César, a Data Science Technologist from [UNINTER](https://www.uninter.com/).
 
-Gosto de um monte de coisas, tipo: café, vinho, jogos de estratégia, estudar,  dados abertos, ciência de dados, visualização de dados, direitos digitais e privacidade.
+I enjoy a lot of things, such as: coffee, wine, strategy games, studying, open data, data science, data visualization, digital rights, and privacy.
 
-# Vamos nos conectar?
-Confira meu [Linkedin](https://www.linkedin.com/in/caesar-duarte/). Sinta-se livre para se conectar comigo e me enviar alguma mensagem. 👋🏻
+# Let's connect?
+Check out my [Linkedin](https://www.linkedin.com/in/caesar-duarte/). Feel free to connect with me and send me a message. 👋🏻
